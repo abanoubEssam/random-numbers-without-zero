@@ -1,0 +1,35 @@
+{
+  "name": "random-numbers-without-zero",
+  "version": "1.0.4",
+  "description": "this package will generate random numbers for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abanoubEssam/random-numbers-generator.git"
+  },
+  "keywords": [
+    "npm",
+    "npm",
+    "random",
+    "numbers",
+    "random",
+    "numbers",
+    "numbers",
+    "generate",
+    "random",
+    "numbers",
+    "npm",
+    "generate",
+    "random",
+    "numbers"
+  ],
+  "author": "Abanoub Essam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abanoubEssam/random-numbers-generator/issues"
+  },
+  "homepage": "https://github.com/abanoubEssam/random-numbers-generator#readme"
+}
